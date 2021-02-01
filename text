@@ -1,0 +1,16 @@
+Write a program which is having a class InventoryManagement.
+
+System should manage the quantity of purchase and sales processes.
+
+If the system is not having enough quantity during sales, the system should show a warning message “Not enough product quantities to sell”.
+
+Write appropriate constructor, methods to manage the sales and purchase processes.
+
+There should be a provision to view the available quantities.
+
+This should be a menu driven program, which allows to
+
+Purchase Product
+Sale Product
+View Available Product Quantities
+Exit
